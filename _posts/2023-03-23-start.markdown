@@ -1,0 +1,14 @@
+---
+title:  "Starting a blog"
+date:   2023-03-23 11:57:37 -0400
+categories:
+  - Life
+  - Blog
+tags:
+  - meta
+  - life
+---
+
+It has been a while since I've actively used my personal GitHub account. For four years, I worked in the industry on projects that couldn't be publicly shared. However, after a recent layoff, I find myself unemployed. It's been over a month now, and I'm not used to being idle. I don't want my coding skills to deteriorate, so I'm starting to work on some personal projects I never had the chance to explore before. This is especially exciting since GPT-4 just came out, which has really helped me be more productive.
+
+The first project I've decided to work on is setting up a GitHub Pages blog. My goal is not only to write the code but also to document what I'm doing along the way. I think it will be interesting to look back on this experience in the future.
